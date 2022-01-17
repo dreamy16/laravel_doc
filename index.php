@@ -16,10 +16,16 @@
  		<div class="col-md-4 "> 			
 			<ul id="menu-14-days-of-bootstrap-4 " class="menu">
 				<li class="menu-item">
+					<a href="helpers.php" target="_blank">Helper Functions</a>
+				</li>
+				<li class="menu-item">
 					<a href="route.php" target="_blank">Route middleware & groups</a>
 				</li>
 				<li class="menu-item">
 					<a href="login.php" target="_blank">Login time check status role </a>
+				</li>
+				<li class="menu-item">
+					<a href="custom_middleware.php" target="_blank">Create Custom Middleware </a>
 				</li>
 			</ul>
  		</div>
